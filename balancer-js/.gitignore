@@ -10,5 +10,5 @@ cache/
 balancer-js.iml
 temp/
 src/contracts/
-
+yarn.lock
 .vscode/*
