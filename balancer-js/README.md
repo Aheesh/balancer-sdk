@@ -23,8 +23,8 @@ A JavaScript SDK which provides commonly used utilties for interacting with Bala
 9. Install ts-node using: `npm install ts-node`
 10. Install tsconfig-paths using: `npm install --save-dev tsconfig-paths`
 11. Generate contracts using: `npm run typechain:generate`
-12. Run the example on local using : npm run example ./examples/pools/create/create-weighted-pool.ts --network localhost
-13. To run the example on sepolia testnet : npm run example ./examples/pools/create/create-weighted-pool.ts --network sepolia
+12. Run the example on local using : `npm run example ./examples/pools/create/create-weighted-pool.ts --network localhost`
+13. To run the example on sepolia testnet : `npm run example ./examples/pools/create/create-weighted-pool.ts --network sepolia`
 
 ## Licensing
 
